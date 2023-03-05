@@ -17,7 +17,7 @@
             </b-card>
         </div>
         <div v-if="listadoRepositorios">
-            <h2>Listado de repositorios</h2>
+            <h2>Listado de mierdas</h2>
             <GitHubRepos :repositorio="repo" v-for="repo of listadoRepositorios" :key="repo.id"></GitHubRepos>
         </div>
     </div>
