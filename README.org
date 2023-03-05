@@ -1,4 +1,4 @@
-* Gestión de usuarios y repositorios de GitHub
+* Gestión de usuarios y repositorios de GitHubwefcwerfwvfeswfvrfewf
 Esta práctica tiene como objetivo *crear una aplicación Vue compleja* a través de componentes de un solo archivo. La aplicación es una aplicación de página única que permitirá al usuario visualizar determinados datos disponibles a través de la *API de GitHub*.
 
 ** Requisitos de software
